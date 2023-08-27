@@ -1,0 +1,47 @@
+.square-wrapper {
+  width: 1360px;
+  height: 385px;
+  display: flex;
+  position: relative;
+  top: 565px;
+  right: 350px;
+  align-items: end;
+}
+
+.square {
+  width: 600px;
+  height: 370px;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  align-items: center;
+  margin-left: 70px;
+  background: #f8f200;
+  clip-path: polygon(
+    10% 1%,
+    100% 0,
+    100% 17%,
+    100% 85%,
+    90% 100%,
+    0 100%,
+    0% 80%,
+    0 15%
+  );
+}
+
+.square-text {
+  width: 500px;
+  height: 205px;
+  display: flex;
+  align-items: center;
+  margin: 15px;
+  font-family: Archangelsk;
+  font-size: 62px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-left: 70px;
+  position: relative;
+  top: 15px;
+}
+
