@@ -1,0 +1,12 @@
+.icon-wrapper {
+  width: 670px;
+  display: flex;
+  position: relative;
+  left: 650px; 
+}
+
+.icons {
+  width: 30px;
+  height: 30px;
+  margin-right: 35px;
+}

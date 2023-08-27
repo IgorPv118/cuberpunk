@@ -1,0 +1,19 @@
+.Button {
+  width: 600px;
+  height: 100px;
+  display: flex;
+}
+
+.buttonContent {
+  width: 270px;
+  height: 80px;
+  background: #000;
+  color: #f8f200;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 40px;
+  margin-left: 70px;
+}
